@@ -14,15 +14,20 @@ Welcome to Minishell, a simplified shell program inspired by bash. This project 
 
 Check the subject for more details!
 
-# Getting Started: <br />
-
-Clone the repository: git clone https://github.com/eetukoljonen/minishell.git <br />
-Build the Minishell executable: make <br />
-Run Minishell: ./minishell <br />
-
 # Usage: <br />
 
-After compiling the Minishell executable, run it from the command line. Enter shell commands, and Minishell will interpret and execute them.
+1. Clone the repository to your local machine:
+```
+git clone https://github.com/eetukoljonen/minishell.git
+```
+2. Build the program:
+```
+make
+```
+3. Start the program
+```
+./minishell
+```
 
 
 # Examples:
