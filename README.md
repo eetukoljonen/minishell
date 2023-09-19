@@ -41,3 +41,6 @@ cat << EOF <br />
 Line 1 <br />
 Line 2 <br />
 EOF <br />
+
+![minishell](https://github.com/eetukoljonen/minishell/assets/120648288/18404dec-f123-49c7-874e-cba5a1c675e5)
+
