@@ -2,7 +2,7 @@
 
 Welcome to Minishell, a simplified shell program inspired by bash. This project focuses on heavy parsing, expansion, environment variables, pipes, redirections, heredoc, double quotes, and single quotes.
 
-Features:
+# Features:
 
 • Basic command execution <br />
 • Parsing and tokenization of user input <br />
@@ -12,18 +12,20 @@ Features:
 • Command pipelines (| symbol) <br />
 • Heredoc functionality <br />
 
-Getting Started: <br />
+Check the subject for more details!
 
-Clone the repository: git clone https://github.com/AxelBadam/minishelll.git <br />
+# Getting Started: <br />
+
+Clone the repository: git clone https://github.com/eetukoljonen/minishell.git <br />
 Build the Minishell executable: make <br />
 Run Minishell: ./minishell <br />
 
-Usage: <br />
+# Usage: <br />
 
 After compiling the Minishell executable, run it from the command line. Enter shell commands, and Minishell will interpret and execute them.
 
 
-Examples:
+# Examples:
 
 1. Basic command execution: ls, echo Hello, pwd
 2. Variable expansion: echo "Hello, $USER"
